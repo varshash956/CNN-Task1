@@ -1,0 +1,2 @@
+Place at least five JPG, JPEG, PNG, or WEBP images in this folder.
+Or run: python cnn_inference.py --download-samples
